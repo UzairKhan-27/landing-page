@@ -5,7 +5,6 @@ This project will help clearing Flexbox concepts and by the end you'll know how 
 
 # Links
 <ul>
-
 <li><a href="https://www.theodinproject.com/lessons/foundations-landing-page" target="_blank">Try out the project</a></li>
-
+<li><a href="https://uzairkhan-27.github.io/landing-page/" target="_blank">View my project</a></li>
 </ul>
