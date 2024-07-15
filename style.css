@@ -46,6 +46,7 @@ a
     padding-left: 100px;
     padding-right: 100px;
     padding-top: 80px;
+    padding-bottom: 50px;
 }
 .hero-main-text
 {
@@ -68,6 +69,28 @@ button
 }
 img
 {
-    width: 300px;
-    height: 300px;
+    width: 150px;
+    height: 150px;
 }
+.large
+{
+    width: 300px;
+    height: 300px;   
+}
+.info-text
+{
+    font-size: 36px;
+    font-weight: bolder;
+    color:#1F2937;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+}
+.main-2
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
