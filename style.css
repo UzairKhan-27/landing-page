@@ -8,13 +8,13 @@ body{
 .header,.main-1
 {
     background-color:#1F2937;
+    color: #F9FAF8;
 }
 .header
 {
     display: flex;
     justify-content: space-around;
     /* margin-left: -100px; */
-    color: #F9FAF8;
     font-size: 24px;
     font-weight: bold;
     padding: 24px;
@@ -35,4 +35,31 @@ a
     text-decoration: none;
     font-size: 18px;
     color: #e9f0ff92;
+}
+.main-1
+{
+    display: flex;
+    flex-direction: column;
+    width: 430px;
+    gap: 10px;
+}
+.hero-main-text
+{
+    font-size: 48px;
+    font-weight: bolder;
+}
+.hero-secondary-text
+{
+    color: #e9f0ff92;
+    font-size: 18px;
+}
+button
+{
+    background-color: #3882f6;   
+    width: 100px;
+}
+img
+{
+    width: 300px;
+    height: 300px;
 }
