@@ -92,22 +92,19 @@ img
 {
     display: flex;
     justify-content: space-evenly;
-    padding-bottom: 10px;
     flex-flow: wrap;
-    flex-shrink: 0;
 }
 .captions
 {
     display: flex;
-    justify-content: space-evenly;
-    /* align-items: center; */
-    flex-shrink: 0;
-    flex-flow: wrap;
+    flex-direction: column;
+    align-items: center;
+    gap:10px;
 }
 .lists
 {
     width: 150px;
     height: 150px;  
     text-align: center;
-}
+} 
 
